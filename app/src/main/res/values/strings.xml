@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StoreRoom2</string>
+    <string name="descripcion_img_foto">imgen de la tienda</string>
+    <string name="description_store_add">crear tienda</string>
+    <string name="nombre_de_la_tienda">Nombre de la tienda</string>
+    <string name="save">Save</string>
+</resources>
